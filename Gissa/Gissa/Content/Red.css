@@ -1,0 +1,43 @@
+﻿.Summary {
+    color: red;
+}
+
+.RequiredFieldValidator {
+    color: red;
+}
+
+.RangeValidator1 {
+    color: red;
+}
+
+
+.clear {
+    height: 30px;
+    clear: both;
+}
+
+#Head1 {
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: italic;
+    color: hsl(240, 100%, 27%);
+}
+
+#guess {
+    float: left;
+}
+
+.SendButton {
+    float: right;
+    margin-right: 888px;
+    margin-top: -25px;
+}
+
+#SecretBox {
+    width: 50px;
+    margin-left: 50px;
+}
+
+img {
+    width: 20px;
+}
